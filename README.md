@@ -22,10 +22,10 @@ The Trash plugin has the ability to create a virtual inventory that you can thro
     trash.admin : Access to the Admin Help Page
     trash.reload : Access to Reload the Plugin
     
-### Available in the following versions ⚙️:
+#### Available in the following versions ⚙️:
   - 1.8x - 1.19x
   
-### Alternative Hosting 🏠:
+#### Alternative Hosting 🏠:
   - Spigot: https://www.spigotmc.org/resources/trash.74911/
 
 ![foto](https://user-images.githubusercontent.com/41524430/193459662-92957a6a-3878-49aa-a309-f51e18feb8bb.png)
