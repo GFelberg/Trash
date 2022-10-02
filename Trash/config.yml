@@ -1,0 +1,33 @@
+# Plugin develloped by GFelberg 
+# Config.yml		        
+
+# language: en
+# Thanks for downloading my plugin. For more plugins, dont forget to look my updates!
+# If you find any bugs or ideas to the plugin, pm me at spigot.
+
+# language: br/pt
+# Obrigado por baixar meu plugin. Para mais plugins, não esqueça de olhar as atualizações!
+# Se você achar qualquer erro ou ideia para o plugin, mande messagem no spigot.
+
+# Permissions
+
+# trash.trash : Access to the Trash Command
+# trash.admin : Access to the Admin Help Page
+# trash.reload : Access to Reload the Plugin
+
+# Configuration 1.0
+# This configuration will display the Trash Messages
+
+Trash:
+  Prefix: '&b[&cTrash&b]'
+  Title: '&bTrash Menu'
+  Opened: '&aTrash Opened'
+  Size: 54
+  
+# Configuration 1.1
+# This configuration will display the Help Page Messages
+
+Help:
+  Page: '&eShows this page'
+  Trash: '&eOpens the Trash Inventory'
+  Reload: '&eReloads the Plugin'
