@@ -27,9 +27,9 @@ public class TrashUtils {
 			Main.getInstance().reloadConfig();
 			loadVariables();
 			p.sendMessage(prefix + " " + ChatColor.GREEN + "Plugin reloaded successfully!");
-			Bukkit.getServer().getConsoleSender().sendMessage("=======================================");
-			Bukkit.getServer().getConsoleSender().sendMessage(ChatColor.GREEN + "Trash Plugin reloaded");
-			Bukkit.getServer().getConsoleSender().sendMessage("=======================================");
+			Bukkit.getConsoleSender().sendMessage("=======================================");
+			Bukkit.getConsoleSender().sendMessage(ChatColor.GREEN + "Trash Plugin reloaded");
+			Bukkit.getConsoleSender().sendMessage("=======================================");
 		}
 	}
 
