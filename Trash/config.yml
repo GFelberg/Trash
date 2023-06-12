@@ -1,5 +1,5 @@
-# Plugin developed by GFelberg 
-# Config.yml		        
+# Plugin developed by GFelberg
+# Config.yml            
 
 # language: en
 # Thanks for downloading my plugin. For more plugins, dont forget to look my updates!
@@ -11,23 +11,18 @@
 
 # Permissions
 
-# trash.trash : Access to the Trash Command
-# trash.admin : Access to the Admin Help Page
-# trash.reload : Access to Reload the Plugin
+# trash.trash = Access to the Trash
+# trash.reload = Access to Reload the Plugin
 
 # Configuration 1.0
-# This configuration will display the Trash Messages
+# This area will be used to manage the Trash Command
 
 Trash:
-  Prefix: '&b[&cTrash&b]'
+  Prefix: '&b&l[&cTrash&b&l]'
+  OpenedTrash: '&aTrash Opened'
   Title: '&bTrash Menu'
-  Opened: '&aTrash Opened'
-  Size: 54
   
-# Configuration 1.1
-# This configuration will display the Help Page Messages
-
 Help:
-  Page: '&eShows this page'
-  Trash: '&eOpens the Trash Inventory'
+  Page: '&eShows the Help Page'
+  Trash: '&eOpens the Trash'
   Reload: '&eReloads the Plugin'

@@ -1,8 +1,7 @@
 name: Trash
-version: 1.1
+version: 1.2
 author: GFelberg
 main: me.GFelberg.Trash.Main
 commands:
   trash:
     usage: /<command>
-    aliases: [lixeira]
