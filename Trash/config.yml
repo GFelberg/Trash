@@ -19,8 +19,9 @@
 
 Trash:
   Prefix: '&b&l[&cTrash&b&l]'
-  OpenedTrash: '&aTrash Opened'
   Title: '&bTrash Menu'
+  Opened: '&aTrash Opened'
+  Size: 54
   
 Help:
   Page: '&eShows the Help Page'
